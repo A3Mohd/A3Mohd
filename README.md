@@ -11,7 +11,9 @@ Fronted web developer developer who loves building what makes him happy :)
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/A3Mohd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/A3Mohd?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/A3Mohd?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a><a href="https://www.twitter.com/abdi_a3" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/abdi_a3?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
+/></a>
 
 ### Skills
 
